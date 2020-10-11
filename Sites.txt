@@ -8,4 +8,13 @@ https://a13xp0p0v.github.io/conference_talks/
 https://github.com/vxunderground/code
 http://browserleaks.com
 https://malicious.link/start/
-https://www.blackhatethicalhacking.com/tools/commix/?__cf_chl_captcha_tk__=b4a21493f9afb9183a0c2f57c26ac2caf8d8f1ce-1602344840-0-AeLK_-Ne38JcCyggVKW654fYpp-ZQWggi8HTSWnx4eW1g0Oc0zmOFEVbh4xViiXHOZZZBPqbVpszgkkIQXsS-WFkKtAAlT_QGv0928Ju1ZouwK1hp6mILd65aZdaGOEWApI9irACs7SE3rXLhRWkx-yPhlf3_zsJ--wDxbtJhoLwTRyNqqgmZ8n7eFTchI2VE6bfYqrDv7RcgjCkTC3D6zHhOGOS3H7_gKOFs1EFuWqBwDXbWAm3iPWBAav5678prGJnqOHgIpLAAek5kq07JAQXxyRiFN8Qz7vrgJFQm4ylQ6I14umVLMxzM0U14ncZyvde1Hq47d29qPCYsKijJ28F8AhoBViqkkj0ObOxbxYH1k1D_RlflBNtMA4wpMclGP8olTpvWMSzXAIyywJMRYXTaBTPX7No0YoRQ5MqHWKx3xAMqOe2ZIe8UOUV1hB-VJNyTkR4x9hp_QHlq0ymVnX4kNw1Syc-VNx0e-TUDgzBrV8DmFMVIzMjbvp3XD3CPyT2SqtebFbilLwwrM06JcWFZ5oT_FoXlHzhmduevIxM
+https://www.blackhatethicalhacking.com/tools/
+https://pipl.com
+https://publicwww.com
+https://hunter.io
+https://wigle.net
+https://zoomeye.org
+https://greynoise.io
+https://shodan.io
+https://censys.io
+https://searchcode.com
