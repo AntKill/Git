@@ -3,7 +3,7 @@ https://book.hacktricks.xyz/
 https://bazaar.abuse.ch/
 https://cryptohack.org/
 https://www.extrahop.com/company/blog/
-https://www.guballa.de/startseite
+https://www.guballa.de/vigenere-solver
 https://a13xp0p0v.github.io/conference_talks/
 https://github.com/vxunderground/code
 http://browserleaks.com
