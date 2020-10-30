@@ -11,3 +11,4 @@ https://github.com/sqshq/sampler
 https://github.com/cyrus-and/gdb-dashboard
 https://github.com/GhostPack/Rubeus
 https://github.com/xairy/linux-kernel-exploitation
+https://github.com/LasCC/Hack-Tools
