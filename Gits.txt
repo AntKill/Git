@@ -9,3 +9,4 @@ https://github.com/DominicBreuker/pspy
 https://github.com/vxunderground/MalwareSourceCode/tree/main/PHP
 https://github.com/sqshq/sampler
 https://github.com/cyrus-and/gdb-dashboard
+https://github.com/GhostPack/Rubeus
