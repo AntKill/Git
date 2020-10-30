@@ -6,3 +6,4 @@ https://github.com/JonathanSalwan/ROPgadget
 https://github.com/pentestmonkey
 https://github.com/ropnop/kerbrute
 https://github.com/DominicBreuker/pspy
+https://github.com/vxunderground/MalwareSourceCode/tree/main/PHP
