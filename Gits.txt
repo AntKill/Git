@@ -10,3 +10,4 @@ https://github.com/vxunderground/MalwareSourceCode/tree/main/PHP
 https://github.com/sqshq/sampler
 https://github.com/cyrus-and/gdb-dashboard
 https://github.com/GhostPack/Rubeus
+https://github.com/xairy/linux-kernel-exploitation
