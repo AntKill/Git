@@ -27,3 +27,4 @@ https://cloudsecdocs.com/
 https://fex.net/
 https://explainshell.com/
 https://mpgn.gitbook.io/crackmapexec/
+https://github.com/enaqx/awesome-pentest#online-operating-systems-resources
