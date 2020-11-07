@@ -33,3 +33,4 @@ https://biznar.com/biznar/desktop/en/search.html
 https://www.faganfinder.com/
 https://www.hashatit.com/
 http://news-explorer.mybluemix.net/
+https://www.malware-traffic-analysis.net/
