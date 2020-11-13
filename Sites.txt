@@ -34,3 +34,6 @@ https://www.faganfinder.com/
 https://www.hashatit.com/
 http://news-explorer.mybluemix.net/
 https://www.malware-traffic-analysis.net/
+Elasticsearch - Document oriented full text search engine
+Logstash - Pipeline processing system that connects "inputs" to "outputs" with optional "filters" in between
+Kibana - Browser based analytics and search dashboard for Elasticsearch
