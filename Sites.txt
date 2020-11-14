@@ -37,3 +37,4 @@ https://www.malware-traffic-analysis.net/
 Elasticsearch - Document oriented full text search engine
 Logstash - Pipeline processing system that connects "inputs" to "outputs" with optional "filters" in between
 Kibana - Browser based analytics and search dashboard for Elasticsearch
+https://telegra.ph/HELK--platforma-dlya-poiska-ugroz-Threat-Hunting--s-otkrytym-ishodnym-kodom-11-12
