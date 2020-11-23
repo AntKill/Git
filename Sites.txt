@@ -39,3 +39,4 @@ Logstash - Pipeline processing system that connects "inputs" to "outputs" with o
 Kibana - Browser based analytics and search dashboard for Elasticsearch
 https://telegra.ph/HELK--platforma-dlya-poiska-ugroz-Threat-Hunting--s-otkrytym-ishodnym-kodom-11-12
 https://github.com/tylerha97/awesome-reversing
+https://github.com/ziadoz/awesome-php#security
