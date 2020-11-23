@@ -44,3 +44,6 @@ https://github.com/tylerha97/awesome-reversing
 https://github.com/analysis-tools-dev/static-analysis
 https://github.com/xairy/linux-kernel-exploitation
 https://github.com/apsdehal/awesome-ctf
+https://github.com/qazbnm456/awesome-web-security
+https://github.com/Awesome-Windows/Awesome
+https://github.com/aleksandar-todorovic/awesome-linux
