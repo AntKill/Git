@@ -47,3 +47,4 @@ https://github.com/apsdehal/awesome-ctf
 https://github.com/qazbnm456/awesome-web-security
 https://github.com/Awesome-Windows/Awesome
 https://github.com/aleksandar-todorovic/awesome-linux
+https://www.unpac.me/#/        -----------------------------###### сайт для распаковки   https://www.youtube.com/watch?v=FctDptnYukQ
