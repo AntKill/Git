@@ -16,3 +16,4 @@ https://github.com/skydive-project/skydive
 https://github.com/snooppr/snoop
 https://github.com/abuvanth/Find-name-for-phone-no
 https://github.com/sundowndev/PhoneInfoga.git
+https://github.com/sundowndev/PhoneInfoga/releases/download/v2.3.6/PhoneInfoga_Windows_i386.tar.gz
