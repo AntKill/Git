@@ -50,4 +50,5 @@ https://github.com/aleksandar-todorovic/awesome-linux
 https://www.unpac.me/#/        -----------------------------###### сайт для распаковки   https://www.youtube.com/watch?v=FctDptnYukQ
 https://beginners.re/          -----------------------------###### Сайт для начинающего реверс инжиниринга.
 https://www.emailprivacytester.com/  ----------------------###### тест почты на уязвимости
-
+https://bammv.github.io/sguil/downloads.html     sguil--network monitor (little same with wireshark)
+https://docs.openstack.org/releasenotes/barbican/mitaka.html        -----monitoring
