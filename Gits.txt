@@ -20,3 +20,4 @@ https://github.com/sundowndev/PhoneInfoga/releases/download/v2.3.6/PhoneInfoga_W
 https://github.com/sundowndev/PhoneInfoga/releases/download/v2.3.6/PhoneInfoga_Linux_arm64.tar.gz
 https://github.com/volatilityfoundation/volatility   
 https://github.com/n0a/meterpreter-av-bypass
+https://github.com/Bafomet666/OSINT-SAN
