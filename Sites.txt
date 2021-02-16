@@ -61,3 +61,4 @@ https://scapy.net/
 https://osintframework.com/
 https://www.robtex.com/
 Censys
+spy-soft
