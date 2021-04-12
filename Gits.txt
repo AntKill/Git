@@ -29,3 +29,4 @@ https://github.com/halpomeranz/lmg
 https://github.com/urbanadventurer/username-anarchy
 https://github.com/L4ys/LazyIDA
 https://github.com/eth0izzle/shhgit
+https://github.com/SecureAuthCorp/impacket
