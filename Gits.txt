@@ -24,7 +24,7 @@ https://github.com/Bafomet666/OSINT-SAN
 https://github.com/SpiderLabs/Responder
 https://github.com/leoanggal1/P-SAK
 https://github.com/rshipp/awesome-malware-analysis
-usbrip
+https://github.com/snovvcrash/usbrip
 https://github.com/halpomeranz/lmg
 https://github.com/urbanadventurer/username-anarchy
 https://github.com/L4ys/LazyIDA
