@@ -1,7 +1,6 @@
 https://github.com/devsecops/
 https://github.com/gentilkiwi/mimikatz
 https://github.com/BloodHoundAD/BloodHound
-https://github.com/topics/penetration-testing
 https://github.com/JonathanSalwan/ROPgadget
 https://github.com/pentestmonkey
 https://github.com/ropnop/kerbrute
