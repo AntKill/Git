@@ -33,3 +33,4 @@ https://github.com/dzzie/SCDBG
 https://github.com/CiscoCXSecurity/enum4linux
 https://github.com/ropnop/kerbrute/
 https://github.com/VirusTotal/yara
+https://github.com/fireeye/capa
