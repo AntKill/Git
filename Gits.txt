@@ -32,3 +32,4 @@ https://github.com/SecureAuthCorp/impacket
 https://github.com/dzzie/SCDBG
 https://github.com/CiscoCXSecurity/enum4linux
 https://github.com/ropnop/kerbrute/
+https://github.com/VirusTotal/yara
