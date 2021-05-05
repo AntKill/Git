@@ -33,6 +33,7 @@ https://biznar.com/biznar/desktop/en/search.html
 https://www.faganfinder.com/
 https://www.hashatit.com/
 http://news-explorer.mybluemix.net/
+https://github.com/devsecops/
 https://www.malware-traffic-analysis.net/
 Elasticsearch - Document oriented full text search engine
 Logstash - Pipeline processing system that connects "inputs" to "outputs" with optional "filters" in between
