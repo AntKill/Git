@@ -84,3 +84,4 @@ https://github.com/thibmaek/awesome-raspberry-pi
 https://github.com/enaqx/awesome-pentest
 http://www.nirsoft.net/computer_forensic_software.html
 https://dev.to/zaiste/15-command-line-tools-to-make-you-better-at-shell-cli-35n6
+https://github.com/Naetw/CTF-pwn-tips
