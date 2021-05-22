@@ -39,3 +39,4 @@ https://github.com/PortSwigger/param-miner
 https://github.com/byt3bl33d3r/CrackMapExec
 https://github.com/qeeqbox/chameleon
 https://github.com/brimsec/brim
+https://github.com/pry0cc/axiom
