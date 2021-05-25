@@ -33,7 +33,6 @@ https://github.com/CiscoCXSecurity/enum4linux
 https://github.com/ropnop/kerbrute/
 https://github.com/VirusTotal/yara
 https://github.com/fireeye/capa
-https://github.com/DeepSE
 https://github.com/gpakosz/.tmux.git
 https://github.com/PortSwigger/param-miner
 https://github.com/byt3bl33d3r/CrackMapExec
