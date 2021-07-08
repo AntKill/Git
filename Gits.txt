@@ -45,3 +45,4 @@ https://github.com/hugsy/gef
 https://github.com/SpiderLabs/Responder
 https://github.com/intercepter-ng/intercepter-ng.github.io
 https://github.com/danielmiessler/SecLists
+https://github.com/Bafomet666/OSINT-SAN
