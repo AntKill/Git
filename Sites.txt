@@ -86,3 +86,8 @@ http://www.nirsoft.net/computer_forensic_software.html
 https://dev.to/zaiste/15-command-line-tools-to-make-you-better-at-shell-cli-35n6
 https://github.com/Naetw/CTF-pwn-tips
 https://github.com/ashemery/exploitation-course/tree/master/course/2021
+Reversing: Secrets of Reverse Engineering by Eldad Eilam
+Hacker Disassembling Uncovered by Kris Kaspersky
+The Art of Software Security Assessment by Mark Dowd, John McDonald, and Justin Schuh
+Fuzzing for Software Security Testing and Quality Assurance (Artech House Information Security and Privacy) by Ari Takanen, Jared DeMott, and Charlie Miller
+The IDA Pro Book: The Unoffi cial Guide to the World’s Most Popular Disassembler by Chris Eagle
