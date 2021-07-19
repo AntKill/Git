@@ -1,1 +1,2 @@
 FTK Imager     ---- Should be downloaded
+CFF Explorer   ---- Should be downloaded
