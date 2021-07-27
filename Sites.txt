@@ -92,3 +92,4 @@ The Art of Software Security Assessment by Mark Dowd, John McDonald, and Justin 
 Fuzzing for Software Security Testing and Quality Assurance (Artech House Information Security and Privacy) by Ari Takanen, Jared DeMott, and Charlie Miller
 The IDA Pro Book: The Unoffi cial Guide to the World’s Most Popular Disassembler by Chris Eagle
 https://any.run/
+https://github.com/infosecn1nja/Red-Teaming-Toolkit
