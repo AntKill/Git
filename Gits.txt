@@ -48,3 +48,4 @@ https://github.com/danielmiessler/SecLists
 https://github.com/Bafomet666/OSINT-SAN
 https://github.com/411Hall/JAWS
 https://github.com/gaasedelen/tenet
+https://github.com/wapiti-scanner/wapiti
