@@ -50,3 +50,4 @@ https://github.com/411Hall/JAWS
 https://github.com/gaasedelen/tenet
 https://github.com/wapiti-scanner/wapiti
 https://github.com/kubernetes/kubectl
+https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Get-GPPPassword.ps1
