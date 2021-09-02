@@ -52,3 +52,4 @@ https://github.com/wapiti-scanner/wapiti
 https://github.com/kubernetes/kubectl
 https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Get-GPPPassword.ps1
 https://github.com/samratashok/ADModule.git
+https://github.com/Tib3rius/AutoRecon
