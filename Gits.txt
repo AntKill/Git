@@ -54,3 +54,4 @@ https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Get-GPPP
 https://github.com/samratashok/ADModule.git
 https://github.com/Tib3rius/AutoRecon
 https://github.com/AxtMueller/Windows-Kernel-Explorer
+https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS
