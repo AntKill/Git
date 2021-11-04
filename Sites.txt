@@ -96,3 +96,4 @@ https://github.com/infosecn1nja/Red-Teaming-Toolkit
 https://0xinfection.github.io/posts/wmi-recon-enum/
 https://reconshell.com/adlab-active-directory-lab-environment-to-practice-penetration-testing/              Парвкита пентеста в AD
 https://cybersecuritynews.com/free-red-teaming-tools/               red team tools
+https://reconshell.com/
