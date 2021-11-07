@@ -99,3 +99,4 @@ https://cybersecuritynews.com/free-red-teaming-tools/               red team too
 https://reconshell.com/
 https://reconshell.com/awesome-search-engine-optimization/
 https://docs.microsoft.com/en-us/windows/security/
+https://quokkajs.com/                                     ###Песочница для кода
