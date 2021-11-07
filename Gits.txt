@@ -58,3 +58,4 @@ https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS
 https://github.com/mncoppola/suterusu
 https://github.com/0xrawsec/whids
 https://github.com/mentebinaria/retoolkit
+https://github.com/smokeme/payloadGenerator                              ###AV bypasser
