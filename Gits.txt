@@ -59,3 +59,4 @@ https://github.com/mncoppola/suterusu
 https://github.com/0xrawsec/whids
 https://github.com/mentebinaria/retoolkit
 https://github.com/smokeme/payloadGenerator                             
+https://github.com/skelsec/pypykatz
