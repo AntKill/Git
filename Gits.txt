@@ -61,3 +61,4 @@ https://github.com/mentebinaria/retoolkit
 https://github.com/smokeme/payloadGenerator                             
 https://github.com/skelsec/pypykatz
 https://github.com/SpiderLabs/Responder
+https://github.com/SecureAuthCorp/impacket/blob/master/examples/ntlmrelayx.py
