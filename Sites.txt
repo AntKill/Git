@@ -101,3 +101,4 @@ https://reconshell.com/awesome-search-engine-optimization/
 https://docs.microsoft.com/en-us/windows/security/
 https://quokkajs.com/                                     ###Песочница для кода
 https://www.ivanglinkin.com/autosuid/
+https://applipedia.paloaltonetworks.com/
