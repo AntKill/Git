@@ -62,4 +62,5 @@ https://github.com/smokeme/payloadGenerator
 https://github.com/skelsec/pypykatz
 https://github.com/SpiderLabs/Responder
 https://github.com/SecureAuthCorp/impacket/blob/master/examples/ntlmrelayx.py
-git clone https://github.com/IvanGlinkin/AutoSUID.git
+https://github.com/IvanGlinkin/AutoSUID.git
+https://github.com/sleuthkit/autopsy.git
