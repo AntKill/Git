@@ -103,3 +103,4 @@ https://docs.microsoft.com/en-us/windows/security/
 https://quokkajs.com/                                     ###Песочница для кода
 https://www.ivanglinkin.com/autosuid/
 https://applipedia.paloaltonetworks.com/
+https://github.com/pluja/awesome-privacy.git
