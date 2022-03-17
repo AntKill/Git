@@ -15,8 +15,8 @@ https://hunter.io
 https://wigle.net
 https://zoomeye.org
 https://greynoise.io
-https://shodan.io
-https://censys.io
+https://shodan.io  -----investigate assets
+https://censys.io  ------investigate assets
 https://searchcode.com
 https://github.com/cliffe/SecGen/
 https://github.com/vxunderground/MalwareSourceCode
