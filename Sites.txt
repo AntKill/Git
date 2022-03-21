@@ -33,6 +33,7 @@ https://biznar.com/biznar/desktop/en/search.html
 https://www.faganfinder.com/
 https://www.hashatit.com/
 http://news-explorer.mybluemix.net/
+https://github.com/luong-komorebi/Awesome-Linux-Software/
 https://cybersecurity.wtf/
 https://github.com/devsecops/
 https://www.malware-traffic-analysis.net/
