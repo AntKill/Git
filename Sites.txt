@@ -104,3 +104,4 @@ https://quokkajs.com/                                     ###Песочница 
 https://www.ivanglinkin.com/autosuid/
 https://applipedia.paloaltonetworks.com/
 https://github.com/pluja/awesome-privacy.git
+https://synapsint.com/   ------ OSINT
