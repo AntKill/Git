@@ -107,3 +107,4 @@ https://applipedia.paloaltonetworks.com/
 https://github.com/pluja/awesome-privacy.git
 https://synapsint.com/   ------ OSINT
 https://github.com/NetSPI   ----------- looking for vulns services
+https://github.com/PowerShellMafia    ---------Powershell hide copy
