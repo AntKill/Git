@@ -7,3 +7,4 @@ https://github.com/GhostPack/
 https://github.com/LuemmelSec/Pentest-Tools-Collection
 https://cucumber.io/   ------------  behavour-testing
 https://github.com/Seabreg/Regshot.git
+https://tools.thehacker.recipes/mimikatz
