@@ -68,3 +68,4 @@ https://github.com/microsoft/routeros-scanner
 https://github.com/SecuProject/ADenum
 https://github.com/gold1029/PowerShell-AD-Recon
 https://github.com/racepwn/racepwn
+https://github.com/hasherezade/pe-bear-releases
