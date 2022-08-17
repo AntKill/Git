@@ -109,3 +109,4 @@ https://synapsint.com/   ------ OSINT
 https://github.com/NetSPI   ----------- looking for vulns services
 https://github.com/PowerShellMafia    ---------Powershell hide copy
 https://grokdebug.herokuapp.com/              ----------------------Elastis filebyte debuger
+https://github.com/wietze/HijackLibs/wiki
