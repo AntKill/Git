@@ -70,4 +70,4 @@ https://github.com/gold1029/PowerShell-AD-Recon
 https://github.com/racepwn/racepwn
 https://github.com/hasherezade/pe-bear-releases
 https://github.com/BishopFox/unredacter
-
+https://github.com/dstotijn/hetty
