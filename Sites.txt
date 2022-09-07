@@ -112,3 +112,4 @@ https://grokdebug.herokuapp.com/              ----------------------Elastis file
 https://github.com/wietze/HijackLibs/wiki
 https://github.com/edoardottt/awesome-hacker-search-engines
 https://github.com/WaterByWind/edgeos-bl-mgmt/blob/master/fw-BlackList-URLs.txt          -----------------BLACKLISTS
+https://dsi.ut-capitole.fr/blacklists/index_en.php             -------------------BLACKLISTS
