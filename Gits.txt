@@ -72,3 +72,4 @@ https://github.com/hasherezade/pe-bear-releases
 https://github.com/BishopFox/unredacter
 https://github.com/dstotijn/hetty
 https://github.com/mdsecresearch/BurpSuiteSharpener
+https://github.com/edoardottt/cariddi.git
