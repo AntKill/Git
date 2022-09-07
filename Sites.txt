@@ -111,3 +111,4 @@ https://github.com/PowerShellMafia    ---------Powershell hide copy
 https://grokdebug.herokuapp.com/              ----------------------Elastis filebyte debuger
 https://github.com/wietze/HijackLibs/wiki
 https://github.com/edoardottt/awesome-hacker-search-engines
+https://github.com/WaterByWind/edgeos-bl-mgmt/blob/master/fw-BlackList-URLs.txt          -----------------BLACKLISTS
