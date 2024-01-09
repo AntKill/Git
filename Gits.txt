@@ -74,3 +74,4 @@ https://github.com/dstotijn/hetty
 https://github.com/mdsecresearch/BurpSuiteSharpener
 https://github.com/edoardottt/cariddi.git
 https://github.com/cipher387/osint_stuff_tool_collection
+https://github.com/LimerBoy/Impulse
