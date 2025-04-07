@@ -1,5 +1,6 @@
 https://www.hackingarticles.in/
 https://gtfobins.github.io/
+https://www.wiz.io/vulnerability-database                           ----------------- vulns database
 https://book.hacktricks.xyz/
 https://bazaar.abuse.ch/
 https://cryptohack.org/
